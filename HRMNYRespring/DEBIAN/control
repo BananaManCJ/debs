@@ -1,0 +1,9 @@
+Package: com.hrmny.respring
+Name: HRMNY Respring Animation
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A HRMNY respring logo
+Author: BananaManCJ
+Maintainer: BananaManCJ
+Section: Themes
+Depends: com.spark.snowboard, com.spark.snowboard.respringextension | com.anemonetheming.anemone3 | com.anemonetheming.anemone | net.dodtweaks.ithemer
